@@ -1,0 +1,76 @@
+body {
+    background-color: #070707;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 450px;
+    height: 200px;
+}
+
+h3 {
+    color: #ffffff;
+    text-align: center;
+}
+
+#pokemonName {
+    color: #ffffff;
+
+    margin-top: 50px;
+    margin-left: 400px;
+}
+
+.boton--busqueda {
+    display: block;
+    margin: auto;
+    width: 450px;
+}
+
+.entrada {
+    display: block;
+    margin: auto;
+    width: 450px;
+    height: 40px;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.grafica--css {
+    margin: 100px;
+
+}
+
+.grafica {
+    height: 250px;
+    width: 500px;
+
+}
+
+#pokemonName {
+    margin-top: 100px;
+}
+
+.pokemon--features__photo img {
+    width: 200px;
+}
+
+.pokemon--features {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#pokemonPeso {
+    color: #ffffff;
+    margin-left: 370px;
+}
+
+#fotoPokemon {
+    margin-left: 350px;
+}
